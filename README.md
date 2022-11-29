@@ -1,4 +1,4 @@
-![hexlet-ci-app workflow](https://github.com/mccman1519/hexlet-ci-app/actions/workflows/main.yml/badge.svg?event=push-build-test-lint)
+![hexlet-ci-app workflow](https://github.com/mccman1519/hexlet-ci-app/actions/workflows/main.yml/badge.svg?event=push)
 
 # Example app for CI Hexlet course
 
