@@ -1,3 +1,5 @@
+![hexlet-ci-app workflow](https://github.com/mccman1519/hexlet-ci-app/actions/workflows/hello-world.yml/badge.svg?event=push-build-test-lint)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
